@@ -13,7 +13,7 @@ leveraged in subsequent vulnerability assessment phases.
 This assessment focused exclusively on external, unauthenticated reconnaissance
 to map publicly accessible assets.
 
-## Conclusion and Next Steps
+## 3. Conclusion and Next Steps
 
 The reconnaissance phase successfully identified key entry points for further
 assessment. The next phase should focus on parameter analysis, manual testing
