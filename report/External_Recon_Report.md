@@ -12,3 +12,9 @@ leveraged in subsequent vulnerability assessment phases.
 ## 2. Engagement Overview
 This assessment focused exclusively on external, unauthenticated reconnaissance
 to map publicly accessible assets.
+
+## Conclusion and Next Steps
+
+The reconnaissance phase successfully identified key entry points for further
+assessment. The next phase should focus on parameter analysis, manual testing
+using Burp Suite, and vulnerability discovery aligned with OWASP WSTG.
